@@ -33,7 +33,7 @@ namespace Tyuiu.GizatullinAP.Sprint3.Task2.V17
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Сумма ряда = " + ds.GetSumSeries(value, startValue, stopValue));
+            Console.WriteLine("Сумма ряда = " + ds.GetSumSeries(startValue, stopValue));
             Console.ReadKey();
         }
     }

@@ -2,9 +2,9 @@
 
 namespace Tyuiu.GizatullinAP.Sprint3.Task2.V17.Lib
 {
-    public class DataService : ISprint3Task1V22
+    public class DataService : ISprint3Task2V17
     {
-        public double GetSumSeries(double value, int startValue, int stopValue)
+        public double GetSumSeries( int startValue, int stopValue)
         {
             double SumSeries = 0;
 
@@ -17,6 +17,8 @@ namespace Tyuiu.GizatullinAP.Sprint3.Task2.V17.Lib
             return Math.Round(SumSeries, 3);
         }
 
+       
         
+           
     }
 }
