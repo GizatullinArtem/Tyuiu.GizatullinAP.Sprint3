@@ -10,7 +10,7 @@ namespace Tyuiu.GizatullinAP.Sprint3.Task1.V22.Lib
             int k = startValue;
             while (k <= stopValue)
             {
-                res += (Math.Pow(value, k) + 1 / 2) * Math.Cos(k);
+                res += (Math.Pow(value, k) + (1 / 2)) * Math.Cos(k);
                 k++;
 
             }
