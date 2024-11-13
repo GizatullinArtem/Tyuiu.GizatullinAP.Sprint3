@@ -9,7 +9,7 @@ namespace Tyuiu.GizatullinAP.Sprint3.Task4.V29.Lib
             double res = 0;
             for (int x = startValue; x <= startValue; x++)
             {
-                if (x == 0)
+                if (x < 0.000001)
                 {
                     continue;
                 }
