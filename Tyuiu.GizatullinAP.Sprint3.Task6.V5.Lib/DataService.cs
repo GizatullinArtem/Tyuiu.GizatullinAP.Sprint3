@@ -6,24 +6,24 @@ namespace Tyuiu.GizatullinAP.Sprint3.Task6.V5.Lib
     {
         public int GetSumTheDivisors(int startValue, int stopValue)
         {
-            int res = 0;
+            int totalSum = 0;
 
             for (int d = startValue; d <= stopValue; d++)
             {
-                int x = 0;
+                int sumOfDivisors = 0;
 
                 for (int i = 1; i <= d; i++)
                 {
                     if (d % i == 0)
                     {
-                        x++;
+                        sumOfDivisors += i;
                     }
                 }
 
-                res += x;
+                totalSum += sumOfDivisors;
             }
 
-            return res;
+            return totalSum;
         }
     }
 }
