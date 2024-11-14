@@ -1,0 +1,14 @@
+C:\Users\Карина\source\repos\Tyuiu.GizatullinAP.Sprint3\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib\bin\Debug\net8.0\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib.deps.json
+C:\Users\Карина\source\repos\Tyuiu.GizatullinAP.Sprint3\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib\bin\Debug\net8.0\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib.dll
+C:\Users\Карина\source\repos\Tyuiu.GizatullinAP.Sprint3\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib\bin\Debug\net8.0\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib.pdb
+C:\Users\Карина\source\repos\Tyuiu.GizatullinAP.Sprint3\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib\bin\Debug\net8.0\tyuiu.cources.programming.interfaces.dll
+C:\Users\Карина\source\repos\Tyuiu.GizatullinAP.Sprint3\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib\obj\Debug\net8.0\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib.csproj.AssemblyReference.cache
+C:\Users\Карина\source\repos\Tyuiu.GizatullinAP.Sprint3\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib\obj\Debug\net8.0\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Карина\source\repos\Tyuiu.GizatullinAP.Sprint3\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib\obj\Debug\net8.0\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib.AssemblyInfoInputs.cache
+C:\Users\Карина\source\repos\Tyuiu.GizatullinAP.Sprint3\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib\obj\Debug\net8.0\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib.AssemblyInfo.cs
+C:\Users\Карина\source\repos\Tyuiu.GizatullinAP.Sprint3\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib\obj\Debug\net8.0\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Карина\source\repos\Tyuiu.GizatullinAP.Sprint3\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib\obj\Debug\net8.0\Tyuiu.Gi.8226ADEA.Up2Date
+C:\Users\Карина\source\repos\Tyuiu.GizatullinAP.Sprint3\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib\obj\Debug\net8.0\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib.dll
+C:\Users\Карина\source\repos\Tyuiu.GizatullinAP.Sprint3\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib\obj\Debug\net8.0\refint\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib.dll
+C:\Users\Карина\source\repos\Tyuiu.GizatullinAP.Sprint3\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib\obj\Debug\net8.0\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib.pdb
+C:\Users\Карина\source\repos\Tyuiu.GizatullinAP.Sprint3\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib\obj\Debug\net8.0\ref\Tyuiu.GizatullinAP.Sprint3.Task7.V23.Lib.dll
